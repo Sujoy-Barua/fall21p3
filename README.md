@@ -1,6 +1,6 @@
 # Fall 2021 Project 3
 
-Implementing this project provides an opportunity to work with data in files, automating an analysis, and producing a set of graphs to support your analysis.
+Implementing this project provides an opportunity to work with data in files, automating an analysis, and producing a set of graphs to support that analysis.
 
 **Task:** Implement the analyzeWindFarm.m and makePlots.m files using functions.
 
